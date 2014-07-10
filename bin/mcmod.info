@@ -1,0 +1,19 @@
+[
+{
+  "modid": "mullakCore",
+  "name": "mullakCore API",
+  "description": "mullakCore is a library of API's required to run all of mullak99's Mods",
+  "version": "Alpha 0.0.1 Pre-Release 1 - Dev 1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mullak99"],
+  "credits": "mullak99 - For the idea and coding",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": [
+  "
+  Minecraft Forge
+  "]
+}
+]
